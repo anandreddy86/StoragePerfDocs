@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T09:51:20.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8cvPkMq9LCK5LsmXgkr0" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T09:52:09.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="x-IyEV4sHBx4I1f-cSba" version="13.8.1" type="github">
   <diagram id="Oi71niZhSWN3tvf8vtrV" name="Page-1">
     <mxGraphModel dx="1449" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,12 +122,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="115" y="230" as="sourcePoint" />
             <mxPoint x="165" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="twLO75x5J4cmUw99lRNE-41" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
-            <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="twLO75x5J4cmUw99lRNE-42" value="&lt;b&gt;Start cProxy 1 on Worker node 1&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
